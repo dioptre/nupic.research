@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Open Research?
 ==============
 
@@ -49,3 +50,9 @@ included into NuPIC as soon as they are ready. We really hope this repository
 is helpful and does not instead create a lot of confusion about what's coming
 next.  
 
+=======
+Sequence Classification
+=======================
+
+This work has been moved to [nupic.research/classification](https://github.com/numenta/nupic.research/tree/master/classification)
+>>>>>>> cf41685ddf19448998c62ce5a29c1a7271f01ff7
